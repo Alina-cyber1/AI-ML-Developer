@@ -1,15 +1,15 @@
 # AI-ML-Developer
 
-Materials and certificates related to the AI / ML Developer internship program.
+Материалы и сертификаты, относящиеся к программе стажировки AI / ML Developer.
 
-## Contents
+## Содержимое
 
-- `Хасанова Алина Салиховна.pptx.pdf` — internship presentation including the certificate
+- [Хасанова Алина Салиховна.pptx.pdf](./Хасанова%20Алина%20Салиховна.pptx.pdf) — презентация стажировки, включающая сертификат
 
-## Author
+## Автор
 
-**Alina Salikhovna Khasanova**
+**Хасанова Алина Салиховна**
 
-## Related
+## Связанные репозитории
 
-- [indlab-thank-you-letter](https://github.com/Alina-cyber1/indlab-thank-you-letter) — letter of appreciation from IndLab
+- [indlab-thank-you-letter](https://github.com/Alina-cyber1/indlab-thank-you-letter) — благодарственное письмо от IndLab
