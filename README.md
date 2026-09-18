@@ -13,4 +13,4 @@
 ## Связанные репозитории
 
 - [indlab-thank-you-letter](https://github.com/Alina-cyber1/indlab-thank-you-letter) — благодарственное письмо от IndLab
-- [RAG-AI-ML] (https://github.com/Alina-cyber1/RAG-AI-ML) - RAG-система для автоматического поиска и генерации ответов по документации курса AI/ML
+- [RAG-AI-ML](https://github.com/Alina-cyber1/RAG-AI-ML) — RAG-система для автоматического поиска и генерации ответов по документации курса AI/ML
