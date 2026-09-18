@@ -13,4 +13,5 @@
 ## Связанные репозитории
 
 - [indlab-thank-you-letter](https://github.com/Alina-cyber1/indlab-thank-you-letter) — благодарственное письмо от IndLab
+- [certificate-rag-ai-agents](https://github.com/Alina-cyber1/certificate-rag-ai-agents) — сертификат курса «Создание AI агентов с базой знаний (RAG) на Claude Code и Replit»
 - [RAG-AI-ML](https://github.com/Alina-cyber1/RAG-AI-ML) — RAG-система для автоматического поиска и генерации ответов по документации курса AI/ML
